@@ -1,0 +1,9 @@
+/.vs/HelloWorld/v14/.suo
+/HelloWorldConsole/*.user
+/HelloWorldConsole/bin
+/HelloWorldConsole/obj
+/ServicesLibrary/bin
+/ServicesLibrary/obj
+/UnitTests/bin
+/UnitTests/obj
+/packages
